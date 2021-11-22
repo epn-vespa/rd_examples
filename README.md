@@ -1,13 +1,14 @@
 # Resource Descriptor file Examples
 
-This directory lists a series of example services configurations 
-to be used by data providers to train on building their own 
-Resource Descriptor files (`q.rd`) and scripts.
+Examples of service and server configuration files are now stored on 
+https://voparis-gitlab.obspm.fr/vespa
+
+Most examples require access to the gitlab repository, although some are freely accesible and can be used by data providers to train on building their own Resource Descriptor files (`q.rd`) and scripts.
 
 
 ## Examples
 
-* Link to examples (https://github.com/epn-vespa/DaCHS-for-VESPA/tree/master/q.rd_examples)
+* Link to examples (https://voparis-gitlab.obspm.fr/vespa/dachs/services)
 
 
 ## More info
